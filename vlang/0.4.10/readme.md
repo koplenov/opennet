@@ -4,6 +4,7 @@
 
 Добавлены анонимные структуры (https://github.com/vlang/v/issues/23855):
 ![plot](struct.png)
+
 Примеры того как это выглядит:
 ![plot](struct_example.png)
 
@@ -45,7 +46,9 @@
 * Добавлен пример небольшой игры, поддерживающую клавиатуру и сенсорное управление (https://github.com/vlang/v/pull/23861)
 
 
-Появился флаг -show-depgraph, который генерирует изображение с ModGraph: *img*
+Появился флаг -show-depgraph, который генерирует изображение с ModGraph:
+![plot](ModGraph.png)
 
-Vinix, новая ОС/ядро, написанная с нуля на V, теперь может работать с GTK3: *img*
+[Vinix](https://github.com/vlang/vinix), новая ОС/ядро, написанная с нуля на V, теперь может работать с GTK3:
+![plot](gtk3.png)
 
